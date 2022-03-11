@@ -1,0 +1,30 @@
+{
+  "Product_Name": {
+    "0": "Soap",
+    "1": "Paste",
+    "2": "Shampoo",
+    "3": "Brush",
+    "4": "Perfume"
+  },
+  "Brand": {
+    "0": "Cinthol",
+    "1": "Pepsodent",
+    "2": "Himalaya",
+    "3": "ZigZag",
+    "4": "Akthar"
+  },
+  "Manufacturing_Date": {
+    "0": "2 March, 2022",
+    "1": "3 January, 2022",
+    "2": "7 February, 2022",
+    "3": "21 December, 2021",
+    "4": "30 November, 2021"
+  },
+  "Price": {
+    "0": 34,
+    "1": 98,
+    "2": 75,
+    "3": 33,
+    "4": 114
+  }
+}
